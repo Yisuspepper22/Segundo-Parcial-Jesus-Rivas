@@ -1,0 +1,58 @@
+{
+    "93955696": {
+        "dni": "93955696",
+        "nombre": "Jesus Rivas",
+        "apellido": "Machi",
+        "edad": 31,
+        "nota": 8.0
+    },
+    "96953478": {
+        "dni": "96953478",
+        "nombre": "Roman",
+        "apellido": "Riquelme",
+        "edad": 60,
+        "nota": 7.0
+    },
+    "45694387": {
+        "dni": "45694387",
+        "nombre": "Lautaro Rivero",
+        "apellido": "Magallan",
+        "edad": 45,
+        "nota": 8.0
+    },
+    "94569856": {
+        "dni": "94569856",
+        "nombre": "Pablo",
+        "apellido": "Ramirez",
+        "edad": 50,
+        "nota": 10.0
+    },
+    "93957890": {
+        "dni": "93957890",
+        "nombre": "Ramon",
+        "apellido": "Caceres",
+        "edad": 50,
+        "nota": 7.0
+    },
+    "93956789": {
+        "dni": "93956789",
+        "nombre": "Pablo",
+        "apellido": "Caceres",
+        "edad": 66,
+        "nota": 8.0
+    },
+    "456789063": {
+        "dni": "456789063",
+        "nombre": "Fabian",
+        "apellido": "Martines",
+        "edad": 45,
+        "nota": 7.0
+    },
+    "45789856": {
+        "dni": "45789856",
+        "nombre": "Jorge",
+        "apellido": "Ramirez",
+        "edad": 56,
+        "nota": 8.0
+    }
+}
